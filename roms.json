@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "brand": "Google",
+      "codename": "panther",
+      "name": "Pixel 7",
+      "roms": []
+    },
+    {
+      "brand": "Google",
+      "codename": "tokay",
+      "name": "Pixel 9",
+      "roms": []
+    }
+  ]
+}
